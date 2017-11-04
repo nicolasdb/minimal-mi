@@ -34,7 +34,8 @@ feature_row:
 github:
   - excerpt: ' test zone github'
 intro:
-  - excerpt: '## my exploration on minisite github
+  - excerpt: '
+## my exploration on minisite github
 ### What exploration?
 
 Well, I see myself as an explorer more than an inventor, I had and still have the chance to do what I want and what I feel right. 
