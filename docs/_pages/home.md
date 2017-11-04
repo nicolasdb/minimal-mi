@@ -33,8 +33,10 @@ feature_row:
     btn_label: "Learn More"
 github:
   - excerpt: ' test zone github'
-intro:
-  - excerpt: '
+
+---
+
+{% include feature_row id="intro" type="center" %}
 ## my exploration on minisite github
 ### What exploration?
 
@@ -52,10 +54,5 @@ And this is how it can be a first use for you.
 I didn't know neither how to, but after learning a bit of github, a bit of markdown and then creating my own free simple website. Ok, it's not easy but not very hard. But look Marty! Now, I'm able to understand how to collaborate with other projects and meet more people all arround the world. Because you are my friend, you'll be never alone again, so come on! It's time to get schwifty!   
 
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
-
-'
----
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
