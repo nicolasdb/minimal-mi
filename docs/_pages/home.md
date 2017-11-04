@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#656565"
   overlay_image: /assets/alex-holyoake-120404.1600.jpg
-  title: Nicolas de Barquin
+  page.title: Nicolas de Barquin
   caption:
 excerpt: 'Founder @[Openfab](http://openfab.be)<br />
 Maker and fabmanager @[Openfab](http://openfab.be)<br />
