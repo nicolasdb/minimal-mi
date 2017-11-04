@@ -3,11 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/unsplash-image-10.jpg
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'baconbaconbaconbacon.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.6.0">Latest release v4.6.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: '- Founder @[Openfab](http://openfab.be)<br />- Maker and fabmanager @[Openfab](http://openfab.be)<br />- Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br /> '
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
