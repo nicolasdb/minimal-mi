@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#656565"
-  overlay_image: /assets/images/unsplash-image-10.jpg
+  overlay_image: /assets/alex-holyoake-120404.1600.jpg
 
   caption:
 excerpt: 'Founder @[Openfab](http://openfab.be)<br />
@@ -56,3 +56,5 @@ I didn't know neither how to, but after learning a bit of github, a bit of markd
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
 
 {% include feature_row %}
+
+*Photo by Alex Holyoake on Unsplash*
