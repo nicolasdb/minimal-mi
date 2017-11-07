@@ -24,12 +24,12 @@ main:
    # url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /404/
-  - title: "Sample Collections"
+  - title: "404"
+    url: /404.html
+  - title: "Sample pages"
     url: /page-archive/
-  - title: "Splash test"
-    url: /splash-page/
+ # - title: "Splash test"
+ #   url: /splash-page/
 
 
 # documentation links
