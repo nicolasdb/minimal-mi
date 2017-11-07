@@ -6,7 +6,7 @@ header:
   overlay_color: "#656565"
   overlay_image: /assets/alex-holyoake-120404.1600.jpg
   page.title: Nicolas de Barquin
-  caption:
+  caption: Photo by Alex Holyoake on Unsplash
 excerpt: 'Founder @[Openfab](http://openfab.be)<br />
 Maker and fabmanager @[Openfab](http://openfab.be)<br />
 Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
@@ -56,5 +56,3 @@ I didn't know neither how to, but after learning a bit of github, a bit of markd
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
 
 {% include feature_row %}
-
-*Photo by Alex Holyoake on Unsplash*
