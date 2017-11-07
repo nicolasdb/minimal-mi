@@ -25,9 +25,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Sample Posts"
-    url: /year-archive-me/
+    url: /404/
   - title: "Sample Collections"
-    url: /collection-archive/
+    url: /page-archive/
   - title: "Splash test"
     url: /splash-page/
 
