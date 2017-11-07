@@ -1,4 +1,5 @@
 ---
+title: "Nicolas de Barquin"
 layout: splash
 permalink: /
 header:
