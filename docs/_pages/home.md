@@ -9,7 +9,8 @@ header:
   caption:
 excerpt: 'Founder @[Openfab](http://openfab.be)<br />
 Maker and fabmanager @[Openfab](http://openfab.be)<br />
-Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br /> '
+Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
+Explorer'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -36,8 +37,6 @@ github:
   - excerpt: ' test zone github'
 
 ---
-
-{% include feature_row id="intro" type="center" %}
 ## my exploration on minisite github
 ### What exploration?
 
