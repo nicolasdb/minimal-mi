@@ -8,5 +8,5 @@ main:
      url: /year-archive/
    - title: "Sample 404"
      url: /404/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Sitemap"
+     url: /sitemap/
