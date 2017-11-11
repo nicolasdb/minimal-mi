@@ -1,7 +1,7 @@
 # main links
 main:
-    - title: "LastOne"
-url: https://nicolasdb.github.io/gitMiniBlog/
+   - title: "LastOne"
+     url: https://nicolasdb.github.io/gitMiniBlog
    - title: "About"
      url: /about/
    - title: "Posts"
