@@ -30,4 +30,4 @@ I didn't know neither how to, but after learning a bit of github, a bit of markd
 
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
 
-{% include feature_row %}
+
