@@ -12,9 +12,6 @@ layouts_gallery:
   - url: /assets/images/2013-02-13 10.34.55.jpg
     image_path: /assets/images/2013-02-13 10.34.55.jpg
     alt: "archive layout example"
-  - url: https://github.com/nicolasdb/lootcrate
-    image_path: https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg
-    alt: "my lootcrate"
 last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
