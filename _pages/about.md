@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
-  - url: /assets/images/2013-01-01 16.04.00.jpg
-    image_path: /assets/images/mm-layout-splash.png
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/2013-01-01 16.04.00.jpg
     alt: "splash layout example"
   - url: /assets/images/2013-01-07 20.12.59.jpg
     image_path: /assets/images/mm-layout-single-meta.png
