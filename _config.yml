@@ -254,8 +254,7 @@ defaults:
       comments: # true
       share: true
       related: true
-<<<<<<< HEAD
-=======
+
   # _pages
   - scope:
       path: "_pages"
@@ -263,4 +262,4 @@ defaults:
     values:
       layout: splash
       author_profile: true
->>>>>>> 1620ed043e47296c7d360ee557ce92fad58e0f13
+
